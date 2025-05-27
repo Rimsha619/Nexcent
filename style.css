@@ -55,3 +55,202 @@ ul li {
   background-color: #4caf4f;
   color: white;
 }
+.herosection{
+  display: flex;
+  justify-content: center;
+}
+.content{
+  padding-top: 90px;
+  padding-right: 150px;
+}
+.mainheading{
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.span{
+  color: #4caf4f;
+}
+.paragraph{
+   font-family: Arial, Helvetica, sans-serif;
+   margin-top: 20px;
+}
+.btn2{
+  margin-top: 30px;
+  color: white;
+  background-color: #4caf4f; border: transparent; border-radius: 5px; padding: 15px;
+}
+.banner{
+  padding-left: 50px;
+  padding-top: 30px;
+}
+.logos{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 30px;
+}
+.system{
+  margin-top: 30px;
+}
+.maindiv{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 30px;
+}
+.subdiv{
+  width: 25%;
+}
+.frame{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.frame2{
+  padding-top: 90px;
+  padding-right: 150px;
+}
+.learn{
+  color: white;
+  margin-top: 30px;
+  background-color: #4caf4f; border: transparent; border-radius: 5px; padding: 15px;
+}
+.jumbocolor{
+  background-color: #F5F7FA;
+}
+.jumbo{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+.jumbo1{
+  width: 40%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.jumboheading{
+  color: #4caf4f;
+}
+.jumbo2{
+  width: 20%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.pana{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.pana2{
+  padding-top: 90px;
+  padding-right: 150px;
+}
+.learn{
+  color: white;
+  margin-top: 30px;
+  background-color: #4caf4f; border: transparent; border-radius: 5px; padding: 15px;
+}
+.timcolor{
+  background-color: #F5F7FA;
+}
+.tim{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.tim1{
+  padding-top: 30px;
+}
+.tim2{
+  padding-top: 30px;
+  padding-left: 80px;
+}
+.timename{
+  color: #4caf4f;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.timlogo{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 30px;
+}
+.card{
+  margin-top: 30px;
+}
+.cardpara{
+  width: 40%;
+}
+.cardfloat{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 30px;
+}
+.cardup{
+  border: 1px solid black;
+  width: 50%;
+  background-color: white;
+  border-radius: 10px;
+  margin-top: -40px;
+}
+.cardcontnet{
+  color: #4caf4f;
+}
+.demo{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  padding-top: 30px;
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.demo1{
+  color: white;
+  margin-top: 20px;
+  background-color: #4caf4f; border: transparent; border-radius: 5px; padding: 10px; margin-left: 500px;
+  margin-bottom: 30px;
+}
+.footer{
+  background-color: #263238;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.footersections{
+  display: flex;
+  justify-content: center;
+  gap: 120px;
+}
+.footerlogo{
+  color: white;
+  padding-left: 40px;
+  margin-top: -30px;
+}
+.footerpara{
+  color: white;
+  margin-top: 30px;
+}
+.footerpara2{
+  color: white;
+  margin-top: 10px;
+}
+.company{
+  
+}
+.companycolor{
+  color: white;
+  padding-bottom: 20px;
+}
+.sectioncolor{
+  color: white;
+  padding-top: 10px; font-size: small;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.input{
+  padding-right: 50px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; 
+  border-radius: 10px; border: none;
+  background-color: rgb(81, 91, 91); 
